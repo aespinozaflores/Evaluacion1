@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="angel.giti7083s.proyecto.Gasto" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Gasto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="124" x="106" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="angel.giti7083s.proyecto.Presupuesto" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Presupuesto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="718" y="279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="3" language="java" name="angel.giti7083s.proyecto.ConsultaEstado" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/ConsultaEstado.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="80" width="144" x="756" y="422"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="angel.giti7083s.proyecto.Viaje" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Viaje.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="132" x="443" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="angel.giti7083s.proyecto.Proyecto" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Proyecto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="133" x="270" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="angel.giti7083s.proyecto.Comercial" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Comercial.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="124" x="1105" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="angel.giti7083s.proyecto.Maquina" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Maquina.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="124" x="1269" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="angel.giti7083s.proyecto.DeptoComercial" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/DeptoComercial.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="170" width="168" x="897" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="angel.giti7083s.proyecto.Cliente" project="Instrumento_Evaluacion_I" 
+    file="/Instrumento_Evaluacion_I/src/angel/giti7083s/proyecto/Cliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="124" x="1433" y="194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="10">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <realization id="11">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
